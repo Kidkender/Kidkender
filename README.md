@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Outsource organization**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **FunC**
 
-- 💬 Ask me about **react, node, python, csharp**
+- 💬 Ask me about ** Node, Python, Solidity, Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
