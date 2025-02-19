@@ -2,7 +2,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="background" style="width:100%; height:auto;">
   Hi 👋, I'm Kidkender
 </h1>
-<h3 align="center">I'm a developer from Viet Nam</h3>
+<h3 align="center">I am a Fullstack Developer specializing in Web3, dApps, and Blockchain, constantly striving for improvement and growth. 🚀 </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kidkender&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
