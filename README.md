@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/language-rust-icon-512x512-m42esrdp.png" alt="Rust" width="40" height="40"/> 
+    <img src="https://rust-lang.org/logos/rust-logo-256x256-blk.png" alt="Rust" width="40" height="40"/> 
   </a> 
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=512&id=at2DODSyQznb&format=png" alt="Solidity" width="40" height="40"/> 
