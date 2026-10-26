@@ -2,7 +2,7 @@
   <img src="assets/banner.gif" alt="Mario banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nguyen Huu Duc <sub>(Kidkender)</sub></h1>
+<h1 align="center">Hi 👋, I'm Duck Nguyen <sub>(Kidkender)</sub></h1>
 
 <p align="center">
   <a href="https://github.com/Kidkender">
