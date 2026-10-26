@@ -49,6 +49,23 @@ Fullstack developer building production-grade backends and scalable web apps. St
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+## 🔨 Currently Building
+
+**[archMind](https://github.com/Kidkender/archMind)**: execution topology intelligence for Laravel, NestJS, and Go/Gin. Trace routes, detect regressions, find security gaps. No LLM required.
+
+[![npm version](https://img.shields.io/npm/v/@kidkender/archmind?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@kidkender/archmind)
+[![npm downloads](https://img.shields.io/npm/dm/@kidkender/archmind?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@kidkender/archmind)
+[![GitHub stars](https://img.shields.io/github/stars/Kidkender/archMind?style=for-the-badge&logo=github)](https://github.com/Kidkender/archMind)
+
+## 📝 Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [After Setting Up JWT, Redis, Docker, Swagger, and CI for the 20th Time, I Built ArchGen](https://dev.to/kidkender/after-setting-up-jwt-redis-docker-swagger-and-ci-for-the-20th-time-i-built-archgen-3jkp)
+- [I Finally Finished the Architecture Tool I Abandoned 2 Months Ago](https://dev.to/kidkender/i-finally-finished-the-architecture-tool-i-abandoned-2-months-ago-2hck)
+- [Tests Verify Behavior. ArchMind Verifies Architecture.](https://dev.to/kidkender/tests-verify-behavior-archmind-verifies-architecture-lpi)
+- [Write a telegram mini app](https://dev.to/kidkender/duck-tma-2kh9)
+<!-- BLOG-POST-LIST:END -->
+
 ## 📈 GitHub Stats
 
 <p align="center">
