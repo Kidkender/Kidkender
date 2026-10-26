@@ -1,109 +1,77 @@
-<h1 align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="background" style="width:100%; height:auto;">
-  Hi 👋, I'm Kidkender
-</h1>
-<h3 align="center">I am a Fullstack Developer specializing in Web3, dApps, and Blockchain, constantly striving for improvement and growth. 🚀 </h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kidkender&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="center">
+  <img src="assets/banner.gif" alt="Mario banner" width="100%" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kidkender" alt="GitHub Trophies" />
-  </a> 
-</p>
+<h1 align="center">Hi 👋, I'm Nguyen Huu Duc <sub>(Kidkender)</sub></h1>
 
-- 🔭 I’m currently working at **Outsource Organization**
-
-- 🌱 I’m currently learning **FunC**
-
-- 💬 Ask me about **Node.js, Python, Solidity, Rust**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/kidkender" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/Kidkender">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=Fullstack+Developer;Backend+with+Go+%26+Python;LLM+%C2%B7+RAG+%C2%B7+MCP+tooling;Web3+%C2%B7+dApps+%C2%B7+Smart+Contracts" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://rust-lang.org/logos/rust-logo-256x256-blk.png" alt="Rust" width="40" height="40"/> 
-  </a> 
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=512&id=at2DODSyQznb&format=png" alt="Solidity" width="40" height="40"/> 
-  </a>
-
-  <!-- Frameworks and Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a>
-
-  <!-- Tools and Platforms -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kidkender&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+---
+
+## 👾 About
+
+Fullstack developer building production-grade backends and scalable web apps. Strong in API design, async processing and distributed systems, with solid React/Next.js on the frontend. Recently focused on **LLM-powered apps, semantic search and RAG**.
+
+- ⚙️ Day to day: backend with **Go** and **Python**
+- 🧠 Building developer tooling for AI assistants (**MCP**, static analysis)
+- ⛓️ Web3 background: Solidity, Rust/Anchor on Ethereum, BSC, Solana, TON
+- 💬 Ask me about **Go, Python, Node.js, RAG/LLM, Solidity**
+
+## 🛠️ Tech Stack
+
+**Backend** &nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Data & Infra** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Web3** &nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📈 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kidkender&theme=synthwave&show_icons=true&locale=en" alt="kidkender GitHub Stats" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kidkender&theme=synthwave&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidkender&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
+
+## 👻 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kidkender/Kidkender/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kidkender/Kidkender/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kidkender/Kidkender/output/pacman-contribution-graph.svg">
+</picture>
+
+## 📫 Connect with me
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidkender&theme=jolly&show_icons=true&locale=en&layout=compact" alt="kidkender Top Languages" />
+  <a href="https://www.linkedin.com/in/duchuu2602"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kidkender@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dev.to/kidkender"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kidkender&theme=synthwave" alt="kidkender GitHub Streak" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer wave" width="100%" />
 </p>
