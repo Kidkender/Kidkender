@@ -20,6 +20,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          # PAT (read:user) so private contributions are counted; falls back to the default token if the secret is unset
+          github_token: ${{ secrets.PROFILE_TOKEN }}
           games: 'pacman'
 
       - name: push SVGs to the output branch
