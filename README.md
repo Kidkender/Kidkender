@@ -60,11 +60,11 @@ Fullstack developer building production-grade backends and scalable web apps. St
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stale responses in Redux Toolkit: the requestId guard you probably need](https://dev.to/kidkender/stale-responses-in-redux-toolkit-the-requestid-guard-you-probably-need-3mam)
 - [4 concurrency bugs I found reviewing my own Go service](https://dev.to/kidkender/4-concurrency-bugs-i-found-reviewing-my-own-go-service-44hc)
 - [After Setting Up JWT, Redis, Docker, Swagger, and CI for the 20th Time, I Built ArchGen](https://dev.to/kidkender/after-setting-up-jwt-redis-docker-swagger-and-ci-for-the-20th-time-i-built-archgen-3jkp)
 - [I Finally Finished the Architecture Tool I Abandoned 2 Months Ago](https://dev.to/kidkender/i-finally-finished-the-architecture-tool-i-abandoned-2-months-ago-2hck)
 - [Tests Verify Behavior. ArchMind Verifies Architecture.](https://dev.to/kidkender/tests-verify-behavior-archmind-verifies-architecture-lpi)
-- [Write a telegram mini app](https://dev.to/kidkender/duck-tma-2kh9)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
